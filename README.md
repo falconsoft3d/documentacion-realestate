@@ -14,6 +14,5 @@ Marlon Falcón Hernández | España | Valencia
 ```
 
 # Videos
-```
 1 - Clase 01 - Introducción: https://www.youtube.com/watch?v=Rls8gg7otjk&t=71s
 2-  Clase 02 - Creando Propiedades desde el Presupuesto de Construcción: https://www.youtube.com/watch?v=5lBpDXJ2Kf4&t=1s
