@@ -16,8 +16,10 @@ Marlon Falcón Hernández | España | Valencia
 # Videos
 1-  Clase 01 - Introducción: https://www.youtube.com/watch?v=Rls8gg7otjk&t=71s
 
-2-  Clase 02 - Creando Propiedades desde el Presupuesto de Construcción: https://www.youtube.com/watch?v=5lBpDXJ2Kf4&t=1s
+2- Clase 02 - Creando Propiedades desde el Presupuesto de Construcción: https://www.youtube.com/watch?v=5lBpDXJ2Kf4&t=1s
 
-3-  Clase 03 - Gestión de Leads desde las propiedades. https://www.youtube.com/watch?v=OC6CeBKRGs0
+3- Clase 03 - Gestión de Leads desde las propiedades: https://www.youtube.com/watch?v=OC6CeBKRGs0
+
+4- Clase 04 - Captación de propiedades: https://www.youtube.com/watch?v=WaxVBecJOQE
 
 
