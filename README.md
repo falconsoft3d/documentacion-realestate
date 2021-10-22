@@ -22,4 +22,6 @@ Marlon Falcón Hernández | España | Valencia
 
 4- Clase 04 - Captación de propiedades: https://www.youtube.com/watch?v=WaxVBecJOQE
 
+5- Clase 05 - Compra y venta de propiedades: https://www.youtube.com/watch?v=-viVXnlUrr4
+
 
